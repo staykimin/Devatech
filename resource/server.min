@@ -1,8 +1,11 @@
 {
-  "data":["status","tabel"],
+  "data":["status","tabel", "config"],
   "url":[
   {
     "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/status.min"
+  },
+  {
+    "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/config.min"
   },
   {
     "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/Tabel.min"
