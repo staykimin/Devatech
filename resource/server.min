@@ -2,7 +2,7 @@
   "data":["config","tabel"],
   "url":[
   {
-    "url":""
+    "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/config.min"
   },
   {
     "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/Tabel.min"
