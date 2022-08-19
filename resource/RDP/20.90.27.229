@@ -26,6 +26,16 @@
     "sayonari vios toyota indonesia stop produksi vios toyota vios 2021",
     "5 kota termacet di indonesia kota termacet se indonesia"
   ],
+  "config":{
+    "Perulangan": 1000,
+    "Batas_Bawah": 3.0,
+    "Batas_Atas": 5.5,
+    "Headless": true,
+    "Channel_Name": [
+        "J. BOS TRADER"
+    ],
+    "Thread": 3
+  },
   "profil":["Jerman","New_Zealand","Kanada","Belgia"],
   "link_profil":"",
   "tgl_log":"10-09-2022"
