@@ -1,0 +1,10 @@
+{
+    "Perulangan": 1000,
+    "Batas_Bawah": 3.0,
+    "Batas_Atas": 5.5,
+    "Headless": true,
+    "Channel_Name": [
+        "J. BOS TRADER"
+    ],
+    "Thread": 2
+}
