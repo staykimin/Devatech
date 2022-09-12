@@ -1,5 +1,5 @@
 {
-  "data":["status","tabel", "config"],
+  "data":["status","tabel", "config","schedule"],
   "url":[
   {
     "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/status.min"
@@ -9,6 +9,9 @@
   },
   {
     "url":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/config.min"
+  },
+  {
+    "url":""
   }
   ]
 }
