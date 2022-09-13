@@ -1,0 +1,11 @@
+{
+    "Perulangan": 10000,
+    "Batas_Bawah": 3.0,
+    "Batas_Atas": 5.5,
+    "Headless": true,
+    "Channel_Name": [
+        "Melodi Kelana Trader",
+	"DEEVA TRADER"
+    ],
+    "Thread": 2
+}
