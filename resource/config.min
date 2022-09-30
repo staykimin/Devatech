@@ -3,5 +3,5 @@
   "post_url":"https://raw.githubusercontent.com/staykimin/Devatech/main/request/main",
   "permission":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/permission.min",
   "proxy_post":"",
-  "proxy_list":""
+  "proxy_list":"https://raw.githubusercontent.com/staykimin/Devatech/main/resource/proxy_list.min"
 }
